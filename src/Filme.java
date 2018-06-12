@@ -2,7 +2,7 @@
 import java.time.LocalDate;
 
 /**
- * @author Michelle de Jesus Rogério
+ * @author Michelle de Jesus Rog�rio
  */
 public class Filme {
 
@@ -24,7 +24,7 @@ public class Filme {
         this.tituloOriginal = tituloOriginal;
     }
 
-    public String geTituloOriginal() {
+    public String getTituloOriginal() {
         return tituloOriginal;
     }
 
