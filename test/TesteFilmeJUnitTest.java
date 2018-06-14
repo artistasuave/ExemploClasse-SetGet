@@ -1,11 +1,7 @@
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-
-
-
 /**
- *
  * @author Michelle de Jesus Rogério
  */
 public class TesteFilmeJUnitTest {
